@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881791105985",
+    "project_id": "foodly-flutter-f7716",
+    "storage_bucket": "foodly-flutter-f7716.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881791105985:android:4c6a15223b92aa560f4d40",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_foodly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy0uwV8ODlIgaJ6TMC4e6RV82NBWKAP0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
